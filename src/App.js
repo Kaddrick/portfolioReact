@@ -11,7 +11,7 @@ import CodeBlock from "./component/CodeBlock";
 
 function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="/portfolioReact">
       <NavBar />
       <Switch>
         <Route component={Home} path='/' exact />
