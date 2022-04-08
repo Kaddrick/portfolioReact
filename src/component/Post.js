@@ -9,8 +9,8 @@ export default function Post() {
     return (
         <main className="bg-blue-400 min-h-screen p-12">
             <section className="container mx-auto">
-                <h1 className="text-5xl flex justify-center cursive">Blog post page</h1>
-                <h2 className="text-lg flex justify-center cursive mb-12">Welcome to my page of blog</h2>
+                <h1 className="text-5xl flex justify-center cursive">Articles</h1>
+                <h2 className="text-lg flex justify-center cursive mb-12">what's new?</h2>
                 <div className="animate-fade-in-up grid md:grid-cols-2 lg:grid-cols-3 gap-8">
                     <article>
                         <Link to='./Travel'>
