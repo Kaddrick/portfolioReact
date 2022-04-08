@@ -10,7 +10,7 @@ export default function DND() {
                 <h2 className="m-4 lg:mx-32 text-lg text-yellow-500">Game and story telling</h2>
                 <p className="cursive m-3 lg:mx-32 md:mx-24">
                     I got into DND a few years back, what interested me first was the ability to have your character do more than
-                    what you can see in video games. Furthermore, the .
+                    what you can see in video games.
                 </p>
                 <h2 className="m-4 lg:mx-32 md:mx-24 text-lg text-yellow-500">Running sessions or dming</h2>
                 <p className="cursive m-3 lg:mx-32 md:mx-24">
