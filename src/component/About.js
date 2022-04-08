@@ -7,7 +7,7 @@ export default function About() {
             <section className="flex">
             <article className="block justify-center lg:mx-64 md:mx-52 sm:mx-32 bg-gray-800 my-12 rounded-lg animate-fade-in-down border-gray-500 border-4">
                 <img src={profile} className="h-52 rounded-full mx-auto m-4"/>
-                <h1 className="text-white text-3xl cursive m-4">Who am i ?</h1>
+                <h1 className="text-white text-3xl cursive m-4">Who am i?</h1>
                 <p className="text-white cursive m-4">
                 Born in France and moved to the UK in 2013, i have worked for the past 8 years in hospitality industry
                     during the second lockdown i decided it was time for a change. I decided to learn coding, i started with
